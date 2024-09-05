@@ -1,0 +1,46 @@
+
+
+header {
+    background-color: rgb(30, 42, 94);
+}
+
+.cuerpo {
+    font-family: "DM Serif Text", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+#titulo {
+    color: rgb(85, 103, 156);
+}
+
+#actividades {
+    background-color: rgb(225, 215, 183);
+}
+
+#fotos {
+    background-color: rgb(124, 147, 195);
+}
+
+h2 {
+    color: rgb(85, 103, 156);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(96, 63, 38);
+}
+
+.escritura {
+    text-align: center;
+}
+
+i {
+    color: rgb(30, 42, 94);
+}
+
+p {
+    text-align: justify;
+}
+
+
